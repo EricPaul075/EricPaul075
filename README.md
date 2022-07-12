@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricPaul075
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data science together with with python
+- 💞️ I’m looking to collaborate on data science projets
 - 📫 How to reach me ericpaul13075@gmail.com
 
 <!---
